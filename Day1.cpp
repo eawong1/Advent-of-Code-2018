@@ -20,6 +20,8 @@ int main()
 
 	cout << "Frequency reached twice: " << checkTwice("frequencies.txt") << endl;
 
+	cout << "Some changes have been made like I added a: Hello World \n" << endl;
+
 }
 
 
